@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IyjbdwOX9bQ4RpSZ0TT++KZSa1srb87e6KLuaHu5b/yi2e2+Xo/a5Qzr38tqZ+BBt9rrJHpfqP3WyeStmSHmXA==",
+  "success": true,
+  "projectFilePath": "/Users/raianelopes/Projects/oop-2023-ca1-71954/oop-2023-ca1-71954/oop-2023-ca1-71954.csproj",
+  "expectedPackageFiles": [
+    "/Users/raianelopes/.nuget/packages/bogus/34.0.2/bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

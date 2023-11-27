@@ -1,0 +1,17 @@
+/Users/raianelopes/Projects/oop-2023-ca1-71954/oop-2023-ca1-71954/obj/Debug/net7.0/oop-2023-ca1-71954.csproj.AssemblyReference.cache
+/Users/raianelopes/Projects/oop-2023-ca1-71954/oop-2023-ca1-71954/obj/Debug/net7.0/oop-2023-ca1-71954.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raianelopes/Projects/oop-2023-ca1-71954/oop-2023-ca1-71954/obj/Debug/net7.0/oop-2023-ca1-71954.AssemblyInfoInputs.cache
+/Users/raianelopes/Projects/oop-2023-ca1-71954/oop-2023-ca1-71954/obj/Debug/net7.0/oop-2023-ca1-71954.AssemblyInfo.cs
+/Users/raianelopes/Projects/oop-2023-ca1-71954/oop-2023-ca1-71954/obj/Debug/net7.0/oop-2023-ca1-71954.csproj.CoreCompileInputs.cache
+/Users/raianelopes/Projects/oop-2023-ca1-71954/oop-2023-ca1-71954/bin/Debug/net7.0/oop-2023-ca1-71954
+/Users/raianelopes/Projects/oop-2023-ca1-71954/oop-2023-ca1-71954/bin/Debug/net7.0/oop-2023-ca1-71954.deps.json
+/Users/raianelopes/Projects/oop-2023-ca1-71954/oop-2023-ca1-71954/bin/Debug/net7.0/oop-2023-ca1-71954.runtimeconfig.json
+/Users/raianelopes/Projects/oop-2023-ca1-71954/oop-2023-ca1-71954/bin/Debug/net7.0/oop-2023-ca1-71954.dll
+/Users/raianelopes/Projects/oop-2023-ca1-71954/oop-2023-ca1-71954/bin/Debug/net7.0/oop-2023-ca1-71954.pdb
+/Users/raianelopes/Projects/oop-2023-ca1-71954/oop-2023-ca1-71954/obj/Debug/net7.0/oop-2023-ca1-71954.dll
+/Users/raianelopes/Projects/oop-2023-ca1-71954/oop-2023-ca1-71954/obj/Debug/net7.0/refint/oop-2023-ca1-71954.dll
+/Users/raianelopes/Projects/oop-2023-ca1-71954/oop-2023-ca1-71954/obj/Debug/net7.0/oop-2023-ca1-71954.pdb
+/Users/raianelopes/Projects/oop-2023-ca1-71954/oop-2023-ca1-71954/obj/Debug/net7.0/oop-2023-ca1-71954.genruntimeconfig.cache
+/Users/raianelopes/Projects/oop-2023-ca1-71954/oop-2023-ca1-71954/obj/Debug/net7.0/ref/oop-2023-ca1-71954.dll
+/Users/raianelopes/Projects/oop-2023-ca1-71954/oop-2023-ca1-71954/bin/Debug/net7.0/Bogus.dll
+/Users/raianelopes/Projects/oop-2023-ca1-71954/oop-2023-ca1-71954/obj/Debug/net7.0/oop-2023-ca1-71954.csproj.CopyComplete
